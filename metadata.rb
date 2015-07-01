@@ -1,0 +1,7 @@
+name 'nkf'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures nkf'
+long_description 'Installs/Configures nkf'
+version '0.1.0'
